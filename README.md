@@ -5,6 +5,9 @@ Large language models (LLMs) are like students who excel at imitating what they'
 
 That's why we're using techniques like Retrieval-Augmented Generation (RAG) to expand their knowledge. It's like giving them access to a giant library! RAG lets LLMs consult external documents when responding,  helping them ground their answers in real-world information and reducing made-up facts.
 
+## Pipeline
+![Pipeline image](/images/pipeline.png "This is a pipeline image.")
+
 ## Demo
 <div align="center">
       <a href="https://youtu.be/NPS9d4xrDPQ">
