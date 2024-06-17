@@ -8,12 +8,8 @@ That's why we're using techniques like Retrieval-Augmented Generation (RAG) to e
 ## Pipeline
 ![Pipeline image](/images/pipeline.png "This is a pipeline image.")
 
-## Demo (click on image to start video)
-<div align="center">
-      <a href="https://youtu.be/NPS9d4xrDPQ">
-         <img src="https://img.youtube.com/vi/NPS9d4xrDPQ/0.jpg" style="width:350px; height:250px;">
-      </a>
-</div>
+## Demo 
+![Demo of GEETA GPT](/images/Geeta_gpt_demo.gif "This is a Demo of app.")
 
 ## Getting Started
 1. Clone the Repository
