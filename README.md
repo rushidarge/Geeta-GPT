@@ -1,6 +1,13 @@
 # Geeta-GPT
 GEETA GPT is an advanced AI application built using Retrieval-Augmented Generation (RAG). It leverages the powerful capabilities of the Large Language Models to provide insightful and accurate responses based on the rich content of the Bhagavad Gita.
 
+## Demo
+<div align="left">
+      <a href="https://youtu.be/NPS9d4xrDPQ">
+         <img src="https://img.youtube.com/vi/NPS9d4xrDPQ/0.jpg" style="width:100%;">
+      </a>
+</div>
+
 ## Getting Started
 1. Clone the Repository
 ```
