@@ -28,7 +28,7 @@ os.environ["GOOGLE_API_KEY"] = "Your API key"
 ```
 4. Run the Application
 ```
-streamlit run app_new.py
+streamlit run app.py
 ```
 
 ## Usage
