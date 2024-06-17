@@ -1,6 +1,10 @@
 # Geeta-GPT
 GEETA GPT is an advanced AI application built using Retrieval-Augmented Generation (RAG). It leverages the powerful capabilities of the Large Language Models to provide insightful and accurate responses based on the rich content of the Bhagavad Gita.
 
+Large language models (LLMs) are like students who excel at imitating what they're taught. Their training data is their textbook, and they become very good at following the patterns they see there. However, this can limit their understanding. They can't truly reason or apply knowledge outside of what they've been exposed to.
+
+That's why we're using techniques like Retrieval-Augmented Generation (RAG) to expand their knowledge. It's like giving them access to a giant library! RAG lets LLMs consult external documents when responding,  helping them ground their answers in real-world information and reducing made-up facts.
+
 ## Demo
 <div align="center">
       <a href="https://youtu.be/NPS9d4xrDPQ">
