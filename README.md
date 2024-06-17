@@ -8,10 +8,10 @@ That's why we're using techniques like Retrieval-Augmented Generation (RAG) to e
 ## Pipeline
 ![Pipeline image](/images/pipeline.png "This is a pipeline image.")
 
-## Demo
+## Demo (click on image to start video)
 <div align="center">
       <a href="https://youtu.be/NPS9d4xrDPQ">
-         <img src="https://img.youtube.com/vi/NPS9d4xrDPQ/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/NPS9d4xrDPQ/0.jpg" style="width:250px; height:150px;">
       </a>
 </div>
 
